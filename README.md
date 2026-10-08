@@ -7,7 +7,7 @@ TThis is a simple and interactive Tic Tac Toe web application developed using HT
 ## 🌐 Live Demo
 
 🔗 **Live Link:**  
- https://codedbydivya.github.io/SCT_WD_3/
+ https://divya-jaiswal.github.io/SCT_WD_3/
 
 ## 🚀 Features
 
@@ -47,7 +47,7 @@ TThis is a simple and interactive Tic Tac Toe web application developed using HT
 
 ## ▶️ How to Run the Project
 
-1. Download or clone the repository: git clone https://github.com/codedbydivya/SCT_WD_3
+1. Download or clone the repository: git clone https://github.com/divya-jaiswal/SCT_WD_3
 2. Open the `index.html` file in any modern web browser.
 3. Start playing the game.
 
